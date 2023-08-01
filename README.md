@@ -1,6 +1,7 @@
 # industry-news-webpage
 Industry News - News and Updates Webpage
 
+
 Developed an Industry News - News and Updates Webpage, utilizing external news APIs to fetch and display up-to-date news data.
 
 Implemented features to filter and sort news articles based on user preferences, enhancing usability and customization.
